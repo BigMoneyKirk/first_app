@@ -1,4 +1,4 @@
-# first_app
+# first_flutter_app
 
 A new Flutter project.
 
@@ -25,5 +25,5 @@ C:\Users\kirkp\AppData\Local\Android\Sdk\cmdline-tools\latest\bin
 
 ## Resources
 
-I took the `main.dart` from my instructor, Maximilian Schwarzmüller's, resouces:
+I took the `main.dart` from my instructor, Maximilian Schwarzmüller's, source code. As well as the `pubspec.yaml` file.
 https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/10459802#overview
