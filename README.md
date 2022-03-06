@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Android SDK Setup
+
+Path to Android SDK:
+C:\Users\kirkp\AppData\Local\Android\Sdk
+
+Environment variable in Path to use sdkmanager:
+C:\Users\kirkp\AppData\Local\Android\Sdk\cmdline-tools\latest\bin
+
+## Resources
+
+I took the `main.dart` from my instructor, Maximilian Schwarzmüller's, resouces:
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/10459802#overview
